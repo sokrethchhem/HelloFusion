@@ -38,6 +38,21 @@
     "Name": "groupContainer",
     "Version": "1.0"
   },
+  "Hello": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": false,
+    "Id": "http://microsoft.com/appmagic/powercontrol/rbv_RBV.Hello",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": true,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": false,
+    "LastModifiedTimestamp": "0",
+    "Name": "rbv_RBV.Hello",
+    "OverridableProperties": {},
+    "TemplateDisplayName": "Hello",
+    "Version": "0.0.1"
+  },
   "Host": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,

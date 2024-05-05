@@ -23,7 +23,9 @@ MainScreen As screen:
         ZIndex: =2
 
     ButtonCanvas1 As Button:
+        BasePaletteColor: =
         DisplayMode: =DisplayMode.Edit
+        FontColor: =
         Height: =54
         OnSelect: =Set(glbHello, HelloFusionFlow.Run("Sokreth").output)
         Text: ="Hello From Flow"
@@ -31,4 +33,12 @@ MainScreen As screen:
         X: =40
         Y: =197
         ZIndex: =3
+
+    Hello1 As Hello:
+        DisplayMode: =DisplayMode.Edit
+        Height: =200
+        Width: =200
+        X: =201
+        Y: =396
+        ZIndex: =4
 

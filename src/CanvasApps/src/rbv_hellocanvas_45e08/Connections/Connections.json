@@ -1,6 +1,10 @@
 {
   "580a3e5e-7170-4733-a745-9ba8e642c538": {
+    "appActions": [
+      "Run"
+    ],
     "connectionRef": {
+      "apiTier": "Standard",
       "displayName": "Logic flows",
       "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1686/1.0.1686.3699/logicflows/icon.png",
       "id": "/providers/microsoft.powerapps/apis/shared_logicflows",
@@ -12,7 +16,7 @@
           "value": "21ce6993-740a-ef11-9f89-000d3a09fc7c"
         },
         "workflowName": {
-          "value": "82fdf18b-6093-a43e-7456-cee038346970"
+          "value": "a50ac05b-bc8a-4097-9ac6-955fe19c1fae"
         }
       },
       "parameterHintsV2": {
@@ -23,7 +27,7 @@
           "value": "21ce6993-740a-ef11-9f89-000d3a09fc7c"
         },
         "workflowName": {
-          "value": "82fdf18b-6093-a43e-7456-cee038346970"
+          "value": "a50ac05b-bc8a-4097-9ac6-955fe19c1fae"
         }
       }
     },

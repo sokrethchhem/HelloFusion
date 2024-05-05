@@ -1,0 +1,12 @@
+{
+  "components": [
+    {
+      "Capabilities": {
+        "PCFExternalServiceUsageAllowed": false
+      },
+      "ComponentName": "CustomControl",
+      "Identifier": "rbv_RBV.Hello",
+      "IdentifierType": 0
+    }
+  ]
+}

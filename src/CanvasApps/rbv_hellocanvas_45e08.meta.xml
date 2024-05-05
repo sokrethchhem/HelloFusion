@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>rbv_hellocanvas_45e08</Name>
-  <AppVersion>2024-05-05T00:20:51Z</AppVersion>
+  <AppVersion>2024-05-05T19:08:00Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.24044.23.0</CreatedByClientVersion>
   <MinClientVersion>3.24044.23.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.24044.23","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20240504T235046Z-3.24044.23.0"}</Tags>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.24044.23","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20240505T022607Z-3.24044.23.0"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
   <DisplayName>HelloCanvas</DisplayName>
   <Description xsi:nil="true"></Description>
   <CommitMessage xsi:nil="true"></CommitMessage>
-  <Publisher xsi:nil="true"></Publisher>
+  <Publisher></Publisher>
   <AuthorizationReferences>[]</AuthorizationReferences>
-  <ConnectionReferences>{"580a3e5e-7170-4733-a745-9ba8e642c538":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1686/1.0.1686.3699/logicflows/icon.png","dataSources":["HelloFusionFlow"],"dependencies":[],"dependents":[],"parameterHints":{"workflowName":{"value":"a50ac05b-bc8a-4097-9ac6-955fe19c1fae"},"workflowEntityId":{"value":"21ce6993-740a-ef11-9f89-000d3a09fc7c"},"workflowDisplayName":{"value":"HelloFusionFlow"}},"parameterHintsV2":{"workflowName":{"value":"a50ac05b-bc8a-4097-9ac6-955fe19c1fae"},"workflowEntityId":{"value":"21ce6993-740a-ef11-9f89-000d3a09fc7c"},"workflowDisplayName":{"value":"HelloFusionFlow"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]}}</ConnectionReferences>
+  <ConnectionReferences>{"580a3e5e-7170-4733-a745-9ba8e642c538":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1686/1.0.1686.3699/logicflows/icon.png","dataSources":["HelloFusionFlow"],"dependencies":[],"dependents":[],"parameterHints":{"workflowName":{"value":"f3471718-3c20-41a8-9efb-4a6ffbb014b1"},"workflowEntityId":{"value":"21ce6993-740a-ef11-9f89-000d3a09fc7c"},"workflowDisplayName":{"value":"HelloFusionFlow"}},"parameterHintsV2":{"workflowName":{"value":"f3471718-3c20-41a8-9efb-4a6ffbb014b1"},"workflowEntityId":{"value":"21ce6993-740a-ef11-9f89-000d3a09fc7c"},"workflowDisplayName":{"value":"HelloFusionFlow"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]}}</ConnectionReferences>
   <DatabaseReferences>{}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>
