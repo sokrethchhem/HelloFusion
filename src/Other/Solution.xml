@@ -78,6 +78,7 @@
       </Addresses>
     </Publisher>
     <RootComponents>
+      <RootComponent type="29" id="{21ce6993-740a-ef11-9f89-000d3a09fc7c}" behavior="0" />
       <RootComponent type="300" schemaName="rbv_hellocanvas_45e08" behavior="0" />
     </RootComponents>
     <MissingDependencies />

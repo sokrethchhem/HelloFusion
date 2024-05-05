@@ -1,0 +1,10 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_logicflows",
+    "FlowNameId": "82fdf18b-6093-a43e-7456-cee038346970",
+    "Name": "HelloFusionFlow",
+    "ServiceKind": "ConnectedWadl",
+    "Type": "ServiceInfo",
+    "WorkflowEntityId": "21ce6993-740a-ef11-9f89-000d3a09fc7c"
+  }
+]

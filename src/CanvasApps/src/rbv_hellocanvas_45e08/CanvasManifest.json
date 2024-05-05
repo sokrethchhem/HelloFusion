@@ -115,7 +115,7 @@
     "Id": "4dd2ecd6-5f8d-4f76-9f14-a99558affdf7",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "HelloCanvas",
     "OriginatingVersion": "1.341",
     "ParserErrorCount": 0,
